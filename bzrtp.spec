@@ -12,7 +12,7 @@ Release:	0
 License:	GPLv2+
 Group:		Communications
 URL:		https://www.linphone.org/technical-corner/%{name}
-#Source0:	https://github.com/BelledonneCommunications/%{name}/archive/%{version}.tar.gz
+#Source0:	https://github.com/BelledonneCommunications/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
 Source0:	http://download-mirror.savannah.gnu.org/releases/linphone/%{name}/%{name}-%{version}.tar.gz
 Source1:	http://download-mirror.savannah.gnu.org/releases/linphone/%{name}/%{name}-%{version}.tar.gz.sig
 Patch0:		%{name}-1.0.4-pkgconfig.patch
